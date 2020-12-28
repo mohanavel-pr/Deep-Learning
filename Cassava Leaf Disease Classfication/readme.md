@@ -7,4 +7,4 @@ In this project, we will implement deep learning techniques to solve and help th
 
 A custom dataset has been prepared to perform this implementation which contains 17117 training images and 4280 test images.
 
-Dataset list is available under "Dataset List" directory.
+Training and Test dataset image filenames are available under "Dataset List" directory.
