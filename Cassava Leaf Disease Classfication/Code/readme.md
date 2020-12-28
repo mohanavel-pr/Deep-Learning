@@ -1,3 +1,5 @@
+Introduction:
+
 This is based on a Kaggle AI and data science competition to identify the different types of disease in Cassava leaves. 
 Cassava is a widely grown crop in Sub-Saharan Africa, as it can sustain extreme climate pattern and is the 2nd largest carbohydrate source for Africa region. Even though it can withstand hot weather conditions, the major threat to these crops are viral diseases which not only affects the food supply but also has worse economic impact.
 
